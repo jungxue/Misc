@@ -2,7 +2,7 @@
 Miscellaneous collection of codes that are (not) useful 
 
 
- | Code     | Nmae     |Function|
+ | Code     | Name     |Function|
  | -------- | -------- |--------|
  | R        |          |        |
  | SAS      |          |        |
